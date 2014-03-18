@@ -18,36 +18,10 @@ Asking good questions can allow the employer to demonstrate openness to feedback
 * What can i expect to be doing the first 3/6/1yr/5yrs?
 * What are the top-3 skills you are looking for in an ideal candidate
 
-## Employee Trust
-* Is there a sign-in/clock-in system
-* Do you require employees to sign an NDA?
-* Do you require employees to sign a non-Disparagement agreement?
-* Do you use cameras or surveillance systems to monitor employees?
-* How do you disallowed off-hours freelance or open-source development?
-* Do you censor or monitor the internet, phone or email?
-* Do you require potential hires to provide login/password information for social media?
-
 ## Career Growth
 * In technology, expertise comes with time and experience, but can be lost over time. Because the industry continues to change, the only way to remain on the cutting edge is to continue to learn and grow. The onus for this is not only on the individual, but also on the organization. Providing growth opportunities is the only way to keep passionate developers engaged and to protect against attrition. How do you foster career progress?
 * Do you have a program to support career-related industry conference attendance?
   * Does organization pay for profession / industry conferences?
-
-## Travel
-* Will this job require travel?
-* What sort of expenses will be paid by the company?
-
-# Organization
-* Do you participate in Social/outreach programs?
-* How does one move up in the organization?
-* Do you typically promote from within the organization, or hire from outside?
-* What does the org chart look like?
-* Describe how product feature decisions are made, and who makes these decisions: examples:
-  * Building consensus
-  * Prove decisions with facts and data
-  * Prototype and test, iterate on results
-  * Research & write specs, review & implement
-  * Pitch ideas / brainstorm
-  * Who are the typical decision makers for the product?
 
 ## The Joel Test
 * Do you use source control?
@@ -90,6 +64,23 @@ Asking good questions can allow the employer to demonstrate openness to feedback
   * How do you manage patents?
   * Who writes your patents?
 
+## Travel
+* Will this job require travel?
+* What sort of expenses will be paid by the company?
+
+# Organization
+* Do you participate in Social/outreach programs?
+* How does one move up in the organization?
+* Do you typically promote from within the organization, or hire from outside?
+* What does the org chart look like?
+* Describe how product feature decisions are made, and who makes these decisions: examples:
+  * Building consensus
+  * Prove decisions with facts and data
+  * Prototype and test, iterate on results
+  * Research & write specs, review & implement
+  * Pitch ideas / brainstorm
+  * Who are the typical decision makers for the product?
+
 ## Environment & Culture
 * Is there a dress code
 * Is listening to music OK?
@@ -100,6 +91,17 @@ Asking good questions can allow the employer to demonstrate openness to feedback
 * Can vacation days be taken in advance and retroactively given?
 * What are the daily work hours, is it flexible?
 * Is there telecommute / work remotely policy?
+
+Later in the interview process, before the interviewee is required to make a decision to accept any potential offer, these questions will be invaluable.
+
+## Employee Trust
+* Is there a sign-in/clock-in system
+* Do you require employees to sign an NDA?
+* Do you require employees to sign a non-Disparagement agreement?
+* Do you use cameras or surveillance systems to monitor employees?
+* How do you disallowed off-hours freelance or open-source development?
+* Do you censor or monitor the internet, phone or email?
+* Do you require potential hires to provide login/password information for social media?
 
 ## Benefits
 * Is there a bonus or incentive system?
