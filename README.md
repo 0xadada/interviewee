@@ -1,7 +1,7 @@
 interviewee
 ===========
 
-The questions an interviewee should ask any potential software development employer. The interview process exists not only to find a good candidate for the employer as it is for the candidate to find a matching position.
+The questions an interviewee should ask any potential software development employer. The interview process exists not only to find a good candidate for the employer as it is for the candidate to find a position that'll suit their needs.
 
 Asking good questions can allow the employer to demonstrate openness to feedback. It can also allow the candidate to show a dedication to personal improvement. Finally it allows the candidate to close the sale.
 
