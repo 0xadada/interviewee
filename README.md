@@ -36,8 +36,8 @@ Asking good questions can allow the employer to demonstrate openness to feedback
 * Will this job require travel?
 * What sort of expenses will be paid by the company?
 
-Organization
-* Do ou participate in Social/outreach programs?
+# Organization
+* Do you participate in Social/outreach programs?
 * How does one move up in the organization?
 * Do you typically promote from within the organization, or hire from outside?
 * What does the org chart look like?
