@@ -109,6 +109,9 @@ Later in the interview process, before the interviewee is required to make a dec
 * Do you provide stock options, equity or other corporate investment program?
 * What is your PTO & Sick policy?
 * How does PTO, sick time accrue?
+  * If there is an unlimited vacation policy, what restrictions/requirements/deadlines/metrics/quotas must be met prior to taking vacation?
+  * Is vacation permission-based?
+    * Who grants permission?
 * Do you provide Career development / training incentives or reimbursement?
 * Do you have a 401k program, and if so, please describe any matching or vesting schedule.
 * Do you provide lifestyle benefits such as a Gym, fitness, meal or other benefits?
