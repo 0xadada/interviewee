@@ -116,3 +116,4 @@ Later in the interview process, before the interviewee is required to make a dec
 * Do you have a 401k program, and if so, please describe any matching or vesting schedule.
 * Do you provide lifestyle benefits such as a Gym, fitness, meal or other benefits?
 * Do you provide commuter reimbursement, parking or public transportation reimbursements?
+* others.
