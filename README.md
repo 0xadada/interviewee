@@ -6,6 +6,8 @@ The questions an interviewee should ask any potential software development emplo
 Asking good questions can allow the employer to demonstrate openness to feedback. It can also allow the candidate to show a dedication to personal improvement. Finally it allows the candidate to close the sale.
 
 ## About the Position
+* What is the job title?
+* Where in the organization chart does this role exist?
 * Why are you hiring for this position?
 * How big is the team I’ll be working with?
 * How many people will I be reporting to?
@@ -15,16 +17,19 @@ Asking good questions can allow the employer to demonstrate openness to feedback
   * Vertical: PMs are hired, may or may not have engineering background, assign tasks and manage programmer resources.
   * Horizontal: Engineers and PM work side by side as PMs may not be trained as engineers - jobs are more start-to-finish. PMs job is to motivate engineers to work towards a common vision.
 * What will a typical work day be like?
-* What can i expect to be doing the first 3/6/1yr/5yrs?
+* What can i expect to be doing the first 3/6/1yr/2rs?
 * What are the top-3 skills you are looking for in an ideal candidate
 
 ## Career Growth
 * In technology, expertise comes with time and experience, but can be lost over time. Because the industry continues to change, the only way to remain on the cutting edge is to continue to learn and grow. The onus for this is not only on the individual, but also on the organization. Providing growth opportunities is the only way to keep passionate developers engaged and to protect against attrition. How do you foster career progress?
 * Do you have a program to support career-related industry conference attendance?
   * Does organization pay for profession / industry conferences?
+* How does the organization evaluate employees?
+  * Does it use a stacked-ranking system?
+  * Does it use a forced-graded ranking system?
 
 ## The Joel Test
-* Do you use source control?
+* Do you use source control, Git, subversion, or other? Hosted on GitHub or self-hosted/other?
 * Can you make a build in one step?
 * Do you make daily builds?
 * Do you have a bug database?
@@ -84,23 +89,24 @@ Asking good questions can allow the employer to demonstrate openness to feedback
 ## Environment & Culture
 * Is there a dress code
 * Is listening to music OK?
-* Describe the office furniture I'll be provided
+* Describe the office equipment I'll be provided
   * Desk / common table, etc
   * Will I be free to use alternate seating / standing desk / balance ball?
-  * Can weekend days be substituted for week days
+* Can weekend days be substituted for week days
 * Can vacation days be taken in advance and retroactively given?
-* What are the daily work hours, is it flexible?
+* What are the core daily work hours, is it flexible?
 * Is there telecommute / work remotely policy?
 
 Later in the interview process, before the interviewee is required to make a decision to accept any potential offer, these questions will be invaluable.
 
-## Employee Trust
+## Employee Trust & Privacy
 * Is there a sign-in/clock-in system
 * Do you require employees to sign an NDA?
 * Do you require employees to sign a non-Disparagement agreement?
+* * Do you require employees to sign a Noncompete agreement?
 * Do you use cameras or surveillance systems to monitor employees?
-* How do you disallowed off-hours freelance or open-source development?
-* Do you censor or monitor the internet, phone or email?
+* How do you disallowed off-hours freelance or open-source project work?
+* Do you censor or monitor internet, phone or email?
 * Do you require potential hires to provide login/password information for social media?
 
 ## Benefits
@@ -110,10 +116,11 @@ Later in the interview process, before the interviewee is required to make a dec
 * What is your PTO & Sick policy?
 * How does PTO, sick time accrue?
   * If there is an unlimited vacation policy, what restrictions/requirements/deadlines/metrics/quotas must be met prior to taking vacation?
+  * Do you have an unlimited vaction policy?
+    * Does it have a minimum or maximum?
   * Is vacation permission-based?
     * Who grants permission?
 * Do you provide Career development / training incentives or reimbursement?
 * Do you have a 401k program, and if so, please describe any matching or vesting schedule.
 * Do you provide lifestyle benefits such as a Gym, fitness, meal or other benefits?
 * Do you provide commuter reimbursement, parking or public transportation reimbursements?
-* others.
