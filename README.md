@@ -103,7 +103,7 @@ Later in the interview process, before the interviewee is required to make a dec
 * Is there a sign-in/clock-in system
 * Do you require employees to sign an NDA?
 * Do you require employees to sign a non-Disparagement agreement?
-* * Do you require employees to sign a Noncompete agreement?
+* Do you require employees to sign a Noncompete agreement?
 * Do you use cameras or surveillance systems to monitor employees?
 * How do you disallowed off-hours freelance or open-source project work?
 * Do you censor or monitor internet, phone or email?
