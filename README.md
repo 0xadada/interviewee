@@ -145,13 +145,12 @@ invaluable.
 * PTO / Sick / Holidays
   * How many paid holidays per year?
   * How many sick days per year?
-* How does PTO accrue?
-  * If there is an unlimited vacation policy, what restrictions or
+* How does vacation time accrue?
+* If there is an unlimited vacation policy, what restrictions or
     requirements/deadlines/metrics/quotas must be met prior to taking
     PTO?
-* Do you have an unlimited vacation policy?
-  * Does it have a minimum number of days that must be taken off?
-  * Does it have a maximum?
+  * Does the organization enforce a maximum?
+  * Does the organization enforce a minimum?
 * Who authorizes PTO?
 * Do you have a 401k program, and if so, please describe the matching or
   vesting schedule.
