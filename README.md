@@ -11,15 +11,28 @@ feedback. It can also allow the candidate to show a dedication to
 personal improvement. Finally it allows the candidate to close the sale.
 
 ## Basic Questions
-* *What is the typical pay for this position?*
+
+* *What is the pay for this position?*
 * *What is the job title?*
 * What will a typical work day be like?
 * Why are you hiring for this position?
 * What can i expect to be doing the first 1mo/6mo/1yr?
 * What are the top-3 aspects of an ideal candidate?
 
+## About the company
+
+* How much runway does the company have left?
+* What is the burn per month?
+* What is the revenue of the company?
+* What is the spending?
+* What are the key business metrics that engineers have access to these close to real-time: number of users? Revenue? Signups? Percentage of returning daily users?
+* __Talk with people who left__ Message them on LinkedIn, and ask if they can share why they left.
+
+
+
 
 ## About the Team
+
 * *Where in the organization chart does this role exist?*
 * *Describe a time the team delivered a successful project. When was
   this?*
@@ -41,6 +54,7 @@ implementation, deployment and maintenence?
 
 
 ## Professional Growth
+
 * *How does the organization foster professional growth?*
   > In technology, expertise comes with time and experience, but can be
   > lost over time. Because the industry continues to change, the only
@@ -62,6 +76,7 @@ implementation, deployment and maintenence?
 
 
 ## The Joel Test
+
 1. Do you use source control, git, subversion, or other?
    Hosted on GitHub or self-hosted/other?
 1. Can you make and deploy a build in one step?
